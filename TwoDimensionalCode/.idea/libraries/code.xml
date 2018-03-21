@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TwoDimensionalCode/src/lib/code.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../TwoDimensionalCode/src/lib/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

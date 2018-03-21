@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="TwoDimensionalCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwoDimensionalCode_jar</output-path>
+    <root id="archive" name="TwoDimensionalCode_jar.war">
+      <element id="module-output" name="TwoDimensionalCode" />
+      <element id="extracted-dir" path="E:/jar/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/jar/code.jar" path-in-jar="/" />
+      <element id="archive" name="archive.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
